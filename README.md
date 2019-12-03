@@ -22,6 +22,8 @@ sudo i2cdetect -y 1     (Slave cihazları listelemek için komut satırına komu
 
 LİSTELEME ÖRNEĞİ 
 
+![01](https://user-images.githubusercontent.com/47052707/70083547-a49f7e00-161d-11ea-899e-bf7ae217924a.png)
+
 
 
 
