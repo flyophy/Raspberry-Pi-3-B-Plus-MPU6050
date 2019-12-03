@@ -5,6 +5,8 @@ Raspberry Pi 3 B+ /MPU6050
 
 ![srdtfyg](https://user-images.githubusercontent.com/47052707/70082768-25f61100-161c-11ea-8289-255e15617e2a.png)
 
+![02](https://user-images.githubusercontent.com/47052707/70083692-f6480880-161d-11ea-92ce-8a6ad73f9eaa.png)
+
 
 ##KURULUM
 
@@ -24,6 +26,12 @@ LİSTELEME ÖRNEĞİ
 
 ![01](https://user-images.githubusercontent.com/47052707/70083547-a49f7e00-161d-11ea-899e-bf7ae217924a.png)
 
+git clone https://github.com/gadgetsky/Raspberry-Pi-3-B-Plus-MPU6050.git
 
+cd Raspberry-Pi-3-B-Plus-MPU6050
+
+chmod +x MPU6050.py
+
+python3 MPU6050.py
 
 
