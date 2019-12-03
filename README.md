@@ -20,7 +20,7 @@ I2C'yi etkinleştiriniz.(Ayarlardan)
 
 I2C adresleri sayfasını listeleyelim ve slave olarak çalışacak MPU6050 kaçıncı adreste onu tespit edelim.
 
-sudo i2cdetect -y 1     (Slave cihazları listelemek için komut satırına komutu giriniz.)
+sudo i2cdetect -y 1     (Slave cihazları listelemek için komut satırına giriniz.)
 
 LİSTELEME ÖRNEĞİ 
 
