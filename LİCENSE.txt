@@ -1,0 +1,28 @@
+Creative Commons Atýf-GayriTicari-AynýLisanslaPaylaþ 4.0 Uluslararasý (CC BY-NC-SA 4.0)
+
+Lisans ile ilgili bilgi için þu adrese bakabilirsiniz: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.tr
+
+Lisansýn aslýný þu adreste okuyabilirsiniz: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Bu lisans, belgelerin özel lisanslarýnda aksi belirtilmediði sürece, bu veri havuzundaki tüm belgeler için geçerlidir.
+
+Bu lisans size þunlarý yapma özgürlüðünü verir:
+
+- Belgeleri her boyut ve formatta PAYLAÞABÝLÝR, kopyalayabilir ve çoðaltabilirsiniz.
+- Belgeleri baþka kaynaklara UYARLAYABÝLÝR, baþka kaynaklarla karýþtýrabilir, baþka kaynaklara aktarabilir ve bu
+belgelerin üzerine inþa edebilirsiniz.
+
+Lisans sahibi, lisans þartlarýný takip ettiðiniz sürece bu özgürlükleri iptal edemez.
+
+Ancak bu özgürlüklerin aþaðýdaki þartlar dahilinde geçerli olduðunu unutmamalýsýnýz:
+
+- Bu belgeleri kullandýðýnýz herhangi bir yerde buraya(https://github.com/yazbel/belgeler) atýfta bulunmalý ve
+deðiþiklik yaptýysanýz bundan bahsetmelisiniz. Ancak bunu yaparken lisans sahibinin sizi veya kullanýmýnýzý onayladýðýna
+dair bir bilgi paylaþmamalýsýnýz.
+
+- Bu belgeleri ticari amaçlarla kullanamazsýnýz.
+
+- Eðer belgeleri karýþtýrdýnýz, aktardýnýz veya belgeler üzerinde deðiþiklik yaptýysanýz, ortaya çýkan yeni eseri bu
+belgelerin lisansý ya da bu lisansa uyumlu olan bir lisans ile lisanslayabilirsiniz.
+
+- Baþkalarý üzerinde bu belirtilenler dýþýnda ek bir kýsýtlama uygulayamazsýnýz.
