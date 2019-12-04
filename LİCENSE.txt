@@ -1,28 +1,29 @@
-Creative Commons Atıf-GayriTicari-AynıLisanslaPaylaş 4.0 Uluslararası (CC BY-NC-SA 4.0)
+Creative Commons AtÄ±f-GayriTicari-AynÄ±LisanslaPaylaÅŸ 4.0 UluslararasÄ± (CC BY-NC-SA 4.0)
 
-Lisans ile ilgili bilgi için şu adrese bakabilirsiniz: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.tr
+Lisans ile ilgili bilgi iÃ§in ÅŸu adrese bakabilirsiniz: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.tr
 
-Lisansın aslını şu adreste okuyabilirsiniz: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+LisansÄ±n aslÄ±nÄ± ÅŸu adreste okuyabilirsiniz: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
-Bu lisans, belgelerin özel lisanslarında aksi belirtilmediği sürece, bu veri havuzundaki tüm belgeler için geçerlidir.
+Bu lisans, belgelerin Ã¶zel lisanslarÄ±nda aksi belirtilmediÄŸi sÃ¼rece, bu veri havuzundaki tÃ¼m belgeler iÃ§in geÃ§erlidir.
 
-Bu lisans size şunları yapma özgürlüğünü verir:
+Bu lisans size ÅŸunlarÄ± yapma Ã¶zgÃ¼rlÃ¼ÄŸÃ¼nÃ¼ verir:
 
-- Belgeleri her boyut ve formatta PAYLAŞABİLİR, kopyalayabilir ve çoğaltabilirsiniz.
-- Belgeleri başka kaynaklara UYARLAYABİLİR, başka kaynaklarla karıştırabilir, başka kaynaklara aktarabilir ve bu
-belgelerin üzerine inşa edebilirsiniz.
+- Belgeleri her boyut ve formatta PAYLAÅABÄ°LÄ°R, kopyalayabilir ve Ã§oÄŸaltabilirsiniz.
+- Belgeleri baÅŸka kaynaklara UYARLAYABÄ°LÄ°R, baÅŸka kaynaklarla karÄ±ÅŸtÄ±rabilir, baÅŸka kaynaklara aktarabilir ve bu
+belgelerin Ã¼zerine inÅŸa edebilirsiniz.
 
-Lisans sahibi, lisans şartlarını takip ettiğiniz sürece bu özgürlükleri iptal edemez.
+Lisans sahibi, lisans ÅŸartlarÄ±nÄ± takip ettiÄŸiniz sÃ¼rece bu Ã¶zgÃ¼rlÃ¼kleri iptal edemez.
 
-Ancak bu özgürlüklerin aşağıdaki şartlar dahilinde geçerli olduğunu unutmamalısınız:
+Ancak bu Ã¶zgÃ¼rlÃ¼klerin aÅŸaÄŸÄ±daki ÅŸartlar dahilinde geÃ§erli olduÄŸunu unutmamalÄ±sÄ±nÄ±z:
 
-- Bu belgeleri kullandığınız herhangi bir yerde buraya(https://github.com/yazbel/belgeler) atıfta bulunmalı ve
-değişiklik yaptıysanız bundan bahsetmelisiniz. Ancak bunu yaparken lisans sahibinin sizi veya kullanımınızı onayladığına
-dair bir bilgi paylaşmamalısınız.
+- Bu belgeleri kullandÄ±ÄŸÄ±nÄ±z herhangi bir yerde buraya(https://github.com/gadgetsky/belgeler) atÄ±fta bulunmalÄ± ve
+deÄŸiÅŸiklik yaptÄ±ysanÄ±z bundan bahsetmelisiniz. Ancak bunu yaparken lisans sahibinin sizi veya kullanÄ±mÄ±nÄ±zÄ± onayladÄ±ÄŸÄ±na
+dair bir bilgi paylaÅŸmamalÄ±sÄ±nÄ±z.
 
-- Bu belgeleri ticari amaçlarla kullanamazsınız.
 
-- Eğer belgeleri karıştırdınız, aktardınız veya belgeler üzerinde değişiklik yaptıysanız, ortaya çıkan yeni eseri bu
-belgelerin lisansı ya da bu lisansa uyumlu olan bir lisans ile lisanslayabilirsiniz.
+- Bu belgeleri ticari amaÃ§larla kullanamazsÄ±nÄ±z.
 
-- Başkaları üzerinde bu belirtilenler dışında ek bir kısıtlama uygulayamazsınız.
+- EÄŸer belgeleri karÄ±ÅŸtÄ±rdÄ±nÄ±z, aktardÄ±nÄ±z veya belgeler Ã¼zerinde deÄŸiÅŸiklik yaptÄ±ysanÄ±z, ortaya Ã§Ä±kan yeni eseri bu
+belgelerin lisansÄ± ya da bu lisansa uyumlu olan bir lisans ile lisanslayabilirsiniz.
+
+- BaÅŸkalarÄ± Ã¼zerinde bu belirtilenler dÄ±ÅŸÄ±nda ek bir kÄ±sÄ±tlama uygulayamazsÄ±nÄ±z.
