@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# Emre METİN - emrmtn.wordpress.com
 # Raspberry Pi 3 B+ / MPU6050
 # Python3
 import smbus
