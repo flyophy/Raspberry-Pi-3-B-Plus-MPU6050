@@ -16,7 +16,7 @@ Lisans sahibi, lisans şartlarını takip ettiğiniz sürece bu özgürlükleri 
 
 Ancak bu özgürlüklerin aşağıdaki şartlar dahilinde geçerli olduğunu unutmamalısınız:
 
-- Bu belgeleri kullandığınız herhangi bir yerde buraya(https://github.com/gadgetsky/belgeler) atıfta bulunmalı ve
+- Bu belgeleri kullandığınız herhangi bir yerde buraya(https://github.com/flyophy/belgeler) atıfta bulunmalı ve
 değişiklik yaptıysanız bundan bahsetmelisiniz. Ancak bunu yaparken lisans sahibinin sizi veya kullanımınızı onayladığına
 dair bir bilgi paylaşmamalısınız.
 
