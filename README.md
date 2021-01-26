@@ -26,7 +26,7 @@ LİSTELEME ÖRNEĞİ
 
 ![01](https://user-images.githubusercontent.com/47052707/70083547-a49f7e00-161d-11ea-899e-bf7ae217924a.png)
 
-git clone https://github.com/gadgetsky/Raspberry-Pi-3-B-Plus-MPU6050.git
+git clone https://github.com/flyophy/Raspberry-Pi-3-B-Plus-MPU6050.git
 
 cd Raspberry-Pi-3-B-Plus-MPU6050
 
